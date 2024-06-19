@@ -1,2 +1,2 @@
-FROM langgenius/dify-web:0.5.7
+FROM semitechnologies/weaviate:1.19.0
 MAINTAINER Q
